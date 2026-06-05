@@ -1,0 +1,7 @@
+cluster,danceability,energy,valence,acousticness,speechiness,tempo,Cluster Name
+0,0.602,0.42,0.391,0.529,0.072,112.488,Acoustic & Mellow
+1,0.739,0.724,0.685,0.143,0.075,113.679,Danceable Pop / Latin
+2,0.546,0.793,0.379,0.067,0.072,132.992,High-Energy Electronic
+3,0.725,0.663,0.543,0.186,0.316,121.256,Upbeat R&B / Funk
+4,0.608,0.784,0.509,0.115,0.11,122.447,Intense EDM
+5,0.665,0.777,0.391,0.076,0.071,124.938,Dark Energetic

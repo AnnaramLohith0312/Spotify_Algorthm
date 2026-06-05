@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+backend/.venv/
+
+# Node modules and build output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+build/
+.eslintcache
+
+# Python cache and files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local files / DB / OS files
+.DS_Store
+Thumbs.db
+backend/app/database/saved_recommendations.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
