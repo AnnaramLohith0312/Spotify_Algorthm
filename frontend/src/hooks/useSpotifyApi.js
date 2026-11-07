@@ -1,6 +1,8 @@
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 
-const BASE_URL = 'http://localhost:8000/api';
+
+const BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api';
+
 
 // Utility fetch helper
 const fetchJson = async (endpoint, options = {}) => {
